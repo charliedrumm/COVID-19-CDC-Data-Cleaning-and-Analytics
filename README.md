@@ -29,4 +29,4 @@ The data is sourced from the Centers for Disease Control and Prevention (CDC).
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
-  ```
+ 
