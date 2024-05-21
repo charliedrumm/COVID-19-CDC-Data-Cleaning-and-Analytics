@@ -1,0 +1,17 @@
+,count,unique,top,freq
+res_state,50000,50,NY,5516
+state_fips_code,50000.0,50.0,36.0,5516.0
+res_county,47195,953,MIAMI-DADE,969
+county_fips_code,47195.0,1358.0,12086.0,969.0
+age_group,49637,5,18 to 49 years,20353
+sex,48916,4,Female,25536
+race,43810,8,White,30274
+ethnicity,43257,4,Non-Hispanic/Latino,29602
+process,50000,11,Missing,45399
+exposure_yn,50000,3,Missing,43068
+current_status,50000,2,Laboratory-confirmed case,42199
+symptom_status,50000,4,Symptomatic,22511
+hosp_yn,50000,4,No,25403
+icu_yn,50000,4,Missing,39072
+death_yn,50000,2,No,40000
+underlying_conditions_yn,4114,2,Yes,4047
